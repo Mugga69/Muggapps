@@ -1,0 +1,20 @@
+{
+  "name": "Muggapps",
+  "identifier": "com.Mugga69.Muggapps",
+  "apps": [
+    {
+      "name": "Pandora",
+      "bundleIdentifier": "com.example.yourapp",
+      "version": "1.2.3",
+      "versionDate": "2026-04-02",
+      "downloadURL": "https://files.catbox.moe/2tlqz9.ipa",
+      "size": 12345678,
+      "developerName": "Your Name",
+      "localizedDescription": "Pandora",
+      "iconURL": "https://raw.githubusercontent.com/yourusername/your-repo/main/icon.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
+      ]
+    }
+  ]
+}
