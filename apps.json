@@ -3,28 +3,14 @@
   "identifier": "com.Mugga69.Muggapps",
   "apps": [
     {
-      "name": "Pandora",
-      "bundleIdentifier": "com.example.yourapp",
-      "version": "1.2.3",
+"name": "Pandora",
+      "bundleIdentifier": "com.pandora",
+      "version": "2211.1",
       "versionDate": "2026-04-02",
       "downloadURL": "https://files.catbox.moe/2tlqz9.ipa",
-      "size": 12345678,
-      "developerName": "Your Name",
-      "localizedDescription": "Pandora",
-      "iconURL": "https://raw.githubusercontent.com/yourusername/your-repo/main/icon.png",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
-      ]
-    },
-    {
-      "name": "PandoratvOS",
-      "bundleIdentifier": "com.example.yourapp.tvos",
-      "version": "1.2.3",
-      "versionDate": "2026-04-02",
-      "downloadURL": "https://files.catbox.moe/bt76jt.ipa",
-      "size": 12345678,
-      "developerName": "Your Name",
-      "localizedDescription": "Pandora",
+      "size": 77615482,
+      "developerName": "Pandora Media, Inc.",
+      "localizedDescription": "Pandora - Music & Radio Streaming (modded version)",
       "iconURL": "https://raw.githubusercontent.com/yourusername/your-repo/main/icon.png",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
