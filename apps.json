@@ -4,28 +4,42 @@
   "apps": [
     {
       "name": "Pandora",
-      "bundleIdentifier": "com.example.yourapp",
-      "version": "1.2.3",
-      "versionDate": "2026-04-02",
-      "downloadURL": "https://files.catbox.moe/2tlqz9.ipa",
-      "size": 12345678,
+      "bundleIdentifier": "com.pandora",
       "developerName": "Your Name",
-      "localizedDescription": "Pandora",
+      "subtitle": "Music & Radio Streaming",
+      "localizedDescription": "Pandora - Music & Radio Streaming",
       "iconURL": "https://raw.githubusercontent.com/yourusername/your-repo/main/icon.png",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
-    {      
+      "versions": [
+        {
+          "version": "1.2.3",
+          "date": "2026-04-02",
+          "downloadURL": "https://files.catbox.moe/2tlqz9.ipa",
+          "size": 12345678,
+          "localizedDescription": "Latest sideloaded version",
+          "screenshotURLs": [
+            "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
+          ]
+        }
+      ]
+    },
+    {
       "name": "PandoratvOS",
-      "bundleIdentifier": "com.example.yourapp",
-      "version": "1.2.3",
-      "versionDate": "2026-04-02",
-      "downloadURL": "https://files.catbox.moe/bt76jt.ipa",
-      "size": 12345678,
+      "bundleIdentifier": "com.pandora.tvos",
       "developerName": "Your Name",
-      "localizedDescription": "Pandora",
+      "subtitle": "Pandora for tvOS",
+      "localizedDescription": "Pandora tvOS sideloaded version",
       "iconURL": "https://raw.githubusercontent.com/yourusername/your-repo/main/icon.png",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
+      "versions": [
+        {
+          "version": "1.2.3",
+          "date": "2026-04-02",
+          "downloadURL": "https://files.catbox.moe/bt76jt.ipa",
+          "size": 12345678,
+          "localizedDescription": "Latest tvOS sideloaded version",
+          "screenshotURLs": [
+            "https://raw.githubusercontent.com/yourusername/your-repo/main/screenshot1.png"
+          ]
+        }
       ]
     }
   ]
